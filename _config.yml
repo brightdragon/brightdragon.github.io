@@ -1,5 +1,5 @@
 # Basic
-name:               "BrightDragon"
+name:               "BrightDragon's Blog"
 
 author:
   facebook:         your-id
@@ -51,9 +51,9 @@ kramdown:
 
 # Navigation
 nav:
-  - name:           "About Me"
+  - name:           "#About"
     url:            "/about"
-  - name:           "Github"
+  - name:           "#Github"
     url:            "https://github.com/brightdragon"
 
 # Sass
