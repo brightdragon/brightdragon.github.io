@@ -1,7 +1,3 @@
-# # # # # # # # # # # # #
-#   K i k o - p l u s   #
-# # # # # # # # # # # # #
-
 # Basic
 name:               "BrightDragon"
 
@@ -20,7 +16,7 @@ author:
   reddit:           your-id
   medium:           your-id
   tumblr:           your-id
-  email:            your-id@your-email.com
+  email:            0422.kypark@gmail.com
 
 copyright:
   year:             2020
@@ -32,7 +28,7 @@ google-analytics:
 
 # Disqus
 disqus:
-  id:               "kiko-plus"
+  id:               ""
 
 # URL
 url:                "https://brightdragon.github.io/" # the base hostname & protocol for your site
@@ -62,7 +58,7 @@ nav:
   - name:           "Tags"
     url:            "/tags"
   - name:           "Github"
-    url:            "https://github.com/AWEEKJ/Kiko-plus"
+    url:            "https://github.com/brightdragon"
 
 # Sass
 sass:
@@ -91,4 +87,3 @@ gems:
   - jekyll-admin
 
 exclude:            [vendor]
-remote_theme: aweekj/Kiko-plus
